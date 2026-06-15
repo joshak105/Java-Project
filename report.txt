@@ -1,0 +1,11 @@
+
+Cab Company Report
+
+Bus Cant1 has 19 bookings and total takings of £102
+Cab UR2 has 5 bookings and total takings of £125
+Bus Ro2 has 27 bookings and total takings of £249
+Cab ZC1 has 4 bookings and total takings of £120
+Bus Uni1 has 25 bookings and total takings of £84
+Cab KA3 has 9 bookings and total takings of £315
+Cab MB4 has 14 bookings and total takings of £210
+Total takings for the day: £1205
